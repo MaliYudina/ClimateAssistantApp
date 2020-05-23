@@ -1,3 +1,3 @@
 Climate App
 
-![Main page]("climate.png")
+![Main page]("climateApp.png")
